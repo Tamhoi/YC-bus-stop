@@ -60,6 +60,28 @@
         "chivia1" : "特快前往西岸",
         "engvia1" : "EXPRESS FOR WEST BANK"
     },
+    {
+        "stopnum" : "WBV-01",
+        "stopnamechi" : "西岸小築",
+        "stopnameeng" : "WEST BANK VILLA",
+        "stoptype" : 0,
+        "rt1": ["40X","W","B"],
+        "chidest1" : "荔 灣 邨",
+        "engdest1" : "LAI WAN ESTATE",
+        "chivia1" : "特快前往東岸",
+        "engvia1" : "EXPRESS FOR EAST BANK"
+    },
+    {
+        "stopnum" : "WBF-01",
+        "stopnamechi" : "西岸碼頭",
+        "stopnameeng" : "WEST BANK FERRY",
+        "stoptype" : 0,
+        "rt1": ["40","W","B"],
+        "chidest1" : "盈 東 邨",
+        "engdest1" : "YING TUNG ESTATE",
+        "chivia1" : "經: 東岸道",
+        "engvia1" : "VIA: EAST BANK ROAD"
+    },
     {   "stopnum" : "SP-01",
         "stopnamechi" : "日落碼頭總站-1",
         "stopnameeng" : "SUNSET PIER BUS TERMINUS-1",
