@@ -22,6 +22,22 @@
         "chivia1" : "經: 東岸道",
         "engvia1" : "VIA: EAST BANK ROAD"
     },
+    {
+        "stopnum" : "EBC-02A",
+        "stopnamechi" : "東岸中⼼",
+        "stopnameeng" : "EAST BANK CENTER",
+        "stoptype" : 1,
+        "rt1": ["40","W","B"],
+        "chidest1" : "西岸碼頭",
+        "engdest1" : "WEST BANK FERRY",
+        "chivia1" : "經: 東岸道",
+        "engvia1" : "VIA: EAST BANK ROAD",
+        "rt2": ["40X","W","B"],
+        "chidest2" : "西岸小築",
+        "engdest2" : "WEST BANK VILLA",
+        "chivia2" : "特快前往西岸",
+        "engvia2" : "EXPRESS FOR WEST BANK"
+    },
 
     {   "stopnum" : "SP-01",
         "stopnamechi" : "日落碼頭總站-1",
