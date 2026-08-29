@@ -38,7 +38,28 @@
         "chivia2" : "特快前往西岸",
         "engvia2" : "EXPRESS FOR WEST BANK"
     },
-
+    {
+        "stopnum" : "TH-01",
+        "stopnamechi" : "時光豪庭",
+        "stopnameeng" : "TIME HEIGHT",
+        "stoptype" : 0,
+        "rt1": ["40","W","B"],
+        "chidest1" : "盈 東 邨",
+        "engdest1" : "YING TUNG ESTATE",
+        "chivia1" : "經: 東岸道",
+        "engvia1" : "VIA: EAST BANK ROAD"
+    },
+    {
+        "stopnum" : "TH-02",
+        "stopnamechi" : "時光豪庭",
+        "stopnameeng" : "TIME HEIGHT",
+        "stoptype" : 0,
+        "rt1": ["40X","W","B"],
+        "chidest1" : "西岸小築",
+        "engdest1" : "WEST BANK VILLA",
+        "chivia1" : "特快前往西岸",
+        "engvia1" : "EXPRESS FOR WEST BANK"
+    },
     {   "stopnum" : "SP-01",
         "stopnamechi" : "日落碼頭總站-1",
         "stopnameeng" : "SUNSET PIER BUS TERMINUS-1",
