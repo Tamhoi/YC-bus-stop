@@ -913,8 +913,8 @@
     },
    {
         "stopnum" : "YT-02",
-        "stopnamechi" : "東岸官立中學",
-        "stopnameeng" : "EAST BANK GOVERNMENT SECONDARY SCHOOL",
+        "stopnamechi" : "東岸官立小學",
+        "stopnameeng" : "EAST BANK GOVERNMENT PRIMARY SCHOOL",
         "stoptype" : 2,
         "rt1": ["40","W","B"],
         "rt2": ["N40","W","B"],
