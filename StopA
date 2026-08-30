@@ -678,7 +678,7 @@
         "rt12": ["","W","B"]
     },
     {
-        "stopnum" : "SS-04",
+        "stopnum" : "SN-04",
         "stopnamechi" : "西岸消防局",
         "stopnameeng" : "WEST BANK FIRE STATION",
         "stoptype" : 2,
@@ -696,7 +696,7 @@
         "rt12": ["","W","B"]
     },
     {
-        "stopnum" : "SS-05",
+        "stopnum" : "SN-05",
         "stopnamechi" : "西岸游泳池",
         "stopnameeng" : "WEST BANK SWIMMING POOL",
         "stoptype" : 2,
