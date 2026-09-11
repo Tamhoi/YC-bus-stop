@@ -1,0 +1,30 @@
+{
+  "buses": [
+    {
+      "name": "Dennis Trident 12m (Euro 3)",
+      "assetId": 97534008653695
+    },
+    {
+      "name": "Scania K230UB 10.6m",
+      "assetId": 76450151873434
+    },
+    {
+      "name": "Volvo B8L 12m",
+      "assetId": 125656897154757
+    },
+    {
+      "name": "Volvo B9TL (Volgren) 12m (Euro 5)",
+      "assetId": 120651940223032,
+      "variantId": 121046638402148,
+      "chance": 5
+    },
+    {
+      "name": "MAN A22 (Euro 5)",
+      "assetId": 95484588090182
+    },
+    {
+      "name": "MAN A95 12.8m",
+      "assetId": 94264745636297
+    }
+  ]
+}
