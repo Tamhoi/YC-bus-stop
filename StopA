@@ -438,7 +438,7 @@
     {
         "stopnum" : "WB-01",
         "stopnamechi" : "西岸居",
-        "stopnameeng" : "SAI ON TSUEN",
+        "stopnameeng" : "West Bank Court",
         "stoptype" : 2,
         "rt1": ["40","W","B"],
         "rt2": ["N40","W","B"],
@@ -456,7 +456,7 @@
     {
         "stopnum" : "WB-02",
         "stopnamechi" : "西岸居",
-        "stopnameeng" : "SAI ON TSUEN",
+        "stopnameeng" : "West Bank Court",
         "stoptype" : 2,
         "rt1": ["40","W","B"],
         "rt2": ["N40","W","B"],
